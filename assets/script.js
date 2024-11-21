@@ -1,7 +1,8 @@
-const shapes = ["triangle", "square", "pentagon", "circle"];
+const topics = ['HTML', 'CSS', 'Git', 'JavaScript'];
 
-for (let shapeArrayIndex = 0; shapeArrayIndex < shapes.length; shapeArrayIndex++ ) {
-    console.log(shapes[shapeArrayIndex]);
+
+for (let topicArrayIndex = 0; topicArrayIndex < topics.length; topicArrayIndex++ ) {
+    console.log(topics[topicArrayIndex]);
 }
 
 const topic = "HTML";
